@@ -2,4 +2,5 @@
 
 I have uploaded the files I have written whilst learning how to use the basics of Python.
 
-I am currently learning about Class Methods.
+Currently I am running through different exercises and have recently learned how to utilise Pipenv to 
+create a virtual environment

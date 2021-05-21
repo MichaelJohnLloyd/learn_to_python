@@ -13,4 +13,4 @@ print(number_list[2][2])
 print(number_list[1][1])
 # This will print 5
 
-# Select row first in sqre brackets, then column to selct the required number.print
+# Select row first in square brackets, then column to select the required number or data.
